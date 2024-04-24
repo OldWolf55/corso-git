@@ -1,0 +1,8 @@
+# Directories
+temp
+
+#Files
+*.log
+
+#Exceptions
+!debug.log
