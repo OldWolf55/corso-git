@@ -1,2 +1,4 @@
 hello
-new line from branch fix
+
+new line added from branch dev
+
